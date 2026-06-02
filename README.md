@@ -1,13 +1,12 @@
 ## Hello, I'm Alex 👋
+📊 I'm a statistician in the UK Civil Service, currently working in the Teachers Analysis Division at the Department for Education. 
 
-📊 I'm a statistician in the UK Civil Service.
+✨ I love working with data in R and am currently developing my skills in Shiny.
 
-🧪 I'm an evolutionary biologist by training:
-- 🐏 I did my PhD on evolutionary immunogenetics in Soay sheep at the University of Edinburgh,
-- 🐦 Followed by a postdoc on evolutionary ecology of ageing in the Seychelles warbler at the University of Leeds,
-- 🧬 Followed by a postdoc on DNA methylation back in the Soay sheep at the University of Sheffield
-
-🍎 I'm currently working in the Teachers Analysis Division at the Department for Education 
+🧪 I’m an evolutionary biologist by training:
+- 🐏 PhD in evolutionary immunogenetics (Soay sheep) — University of Edinburgh  
+- 🐦 Postdoc in evolutionary ecology of ageing (Seychelles warbler) — University of Leeds  
+- 🧬 Postdoc in DNA methylation (Soay sheep) — University of Sheffield  
 
 🎨 Some of my recent projects include:
 - 📈 [Teacher workforce analysis dashboard](https://department-for-education.shinyapps.io/teacher-workforce-analysis-dashboard/?_inputs_&navlistPanel=%22Teacher%20demand%20and%20PGITT%20need%22&twm_tabsetpanels=%22Introduction%22)

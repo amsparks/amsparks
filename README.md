@@ -1,5 +1,5 @@
 ## Hello, I'm Alex 👋
-📊 I'm a statistician in the UK Civil Service, currently working in the Teachers Analysis Division at the Department for Education. 
+📊 I'm a statistician in the UK Civil Service, currently working in the Statistics Development Team at the Department for Education. 
 
 ✨ I love working with data in R and am currently developing my skills in Shiny.
 

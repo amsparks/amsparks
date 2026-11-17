@@ -11,7 +11,8 @@
 🎨 Some of my recent projects include:
 - 📈 [Teacher workforce analysis dashboard](https://department-for-education.shinyapps.io/teacher-workforce-analysis-dashboard/?_inputs_&navlistPanel=%22Teacher%20demand%20and%20PGITT%20need%22&twm_tabsetpanels=%22Introduction%22)
 - 👩‍🏫 [Teacher demand and postgraduate trainee need](https://explore-education-statistics.service.gov.uk/find-statistics/teacher-demand-and-postgraduate-trainee-need/2026-27)
-
+- 📝 [The Analysts' Guide](https://dfe-analytical-services.github.io/analysts-guide/)
+  
 🛠️ My toolbox:
 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
